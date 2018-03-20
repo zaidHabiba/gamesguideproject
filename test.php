@@ -11,4 +11,4 @@ $DataBase=new mysqli('localhost','root','','gamesguideproject') or die('Unable t
 echo 'connected and connected';
 
 ?>
-<p> hello</p>
+<p> hello world</p>
